@@ -1,2 +1,20 @@
-Советская	власть	эму-рэкэ-н	эму-ри-тын	минав	тваяндула	ляучандула	бочка-л	илы-чи-дёт-ты-⊘	спирт	нги=да	ич	кол-лэ
-советская	власть	принести-cond.ds-3sg	принести-pst-3pl	вино-acc	Тваян-loc	Лаучан-loc	бочка-pl	встать-res-prog.freq-nfut-3pl	спирт	кто=add	neg	пить-cvb.neg
+min		entil’-bu		oro-mŋə-l		bi-ši-ten
+я.obl		родители-poss.1sg	олень-ag.prof-pl	быть-pst-3pl
+
+bi	bak-u-ri-wu			or-du			maju-kə-le	gərbɨ-n
+я	находить-ad-pst-1sg		олень.pl-dat		май-idk-loc	имя-poss.3sg
+
+ek-mu			ič-u.ka-ni-n			i-la		bi	bak-u-ri-wu
+мать-poss.1sg		видеть-caus-pst-3sg		dem.q-loc	я	находить-ad-pst-1sg
+
+tor-le		tik-ri-wu		imanna-la
+земля-loc	упасть-pst-1sg		снег-loc
+
+kučuke		nan	bi-ši-wə		ərəɣər		or-du
+маленький	и	быть-pst-1sg	всегда		олень.pl-dat
+
+bi-ši-n		inu-če-r-bu				dɨɣən		bi-wet-tə-n
+быть-pst-3sg	вьючить-ptc.pst-pl-acc		четыре		быть-freq-nfut-3sg
+
+aič		tarak		bičew	bi-če-tən		on=kə	bu			bi-d-di-wun			titel’
+хорошо	dem.dist	fst	быть-ptc.pst-poss.3pl	как=emph	мы.inc			быть-prog-pst-1pl.exc		раньше
