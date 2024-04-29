@@ -1,3 +1,3 @@
 Language,German,95000000
 Pidgin,Tok Pisin,130000
-Language,KildinSaami,300
+Language,Kildin Sámi,300
